@@ -1,3 +1,4 @@
+% PROGRAMA DE INTEGRACION DE SIMPSON 1/3
 clc;
 clear;
 n = input('Ingrese el numero de subintervalos: ');

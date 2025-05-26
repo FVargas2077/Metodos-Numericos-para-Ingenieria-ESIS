@@ -1,4 +1,4 @@
-% METODO DEL RECTANGULO
+% PROGRAMA DEL METODO DEL RECTANGULO
 clear,clc
 n = input('Ingrese el numero de particiones: ');
 x0 = input('Ingrese el valor de x(0) (inicio del intervalo): ');

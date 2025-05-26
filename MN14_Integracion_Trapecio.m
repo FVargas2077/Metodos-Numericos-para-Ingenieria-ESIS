@@ -1,4 +1,4 @@
-% METODO DE TRAPECIO
+% PROGRAMA DEL METODO DE TRAPECIO
 clear,clc
 n = input('Ingrese el numero de particiones: ');
 x0 = input('Ingrese el valor de x(0): ');

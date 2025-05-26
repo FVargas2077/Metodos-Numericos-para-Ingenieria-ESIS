@@ -1,4 +1,4 @@
-%METODO DE RUNGE KUTTA
+% METODO DE RUNGE KUTTA
 clc;
 clear;
 n = input('Ingrese el numero de subintervalos: ');

@@ -1,3 +1,4 @@
+% PROGRAMA DE METODO DE NEWTON RAPHSON
 clc;
 clear;
 x(1) = input('Ingrese la aproximacion inicial: ');
